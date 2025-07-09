@@ -74,4 +74,4 @@ To get a local copy of the web server running:
 
 ## 📬 Contact
 
-Project Link: [https://github.com/DiegoNatanael/simple-python-web-server](https://github.com/DiegoNatanael/simple-python-web-server)
+Project Link: [https://github.com/DiegoNatanael/python-web-server](https://github.com/DiegoNatanael/python-web-server)
