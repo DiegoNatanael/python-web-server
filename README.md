@@ -57,7 +57,7 @@ To get a local copy of the web server running:
     ```
 2.  Navigate into the project directory:
     ```sh
-    cd simple-python-web-server
+    cd python-web-server
     ```
 3.  Ensure you have a `public` directory in the same location as `simple_server.py`, containing at least `index.html`.
 
