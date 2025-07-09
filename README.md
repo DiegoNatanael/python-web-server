@@ -53,7 +53,7 @@ To get a local copy of the web server running:
 
 1.  Clone this repository to your local machine:
     ```sh
-    git clone [https://github.com/](https://github.com/)DiegoNatanael/python-web-server.git
+    git clone https://github.com/DiegoNatanael/python-web-server.git
     ```
 2.  Navigate into the project directory:
     ```sh
